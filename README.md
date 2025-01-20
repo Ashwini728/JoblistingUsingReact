@@ -1,6 +1,3 @@
-Here's a detailed README for your job listing website using React:
-
----
 
 # Job Listing Website
 
@@ -32,9 +29,7 @@ This repository contains the source code for a **Job Listing Website** built usi
 ## Tech Stack
 
 - **Frontend**: React, React Router, Axios
-- **Styling**: CSS Modules / Tailwind CSS / Bootstrap (choose based on your preference)
-- **Backend**: (Optional) Node.js/Express (for managing APIs, if not using a mock API)
-- **Database**: MongoDB/MySQL/PostgreSQL (optional, if backend is implemented)
+- **Styling**: CSS Modules
 - **API Integration**: RESTful APIs for fetching job data
-- **State Management**: React Context / Redux (if needed for global state)
+- **State Management**: React Context
 
