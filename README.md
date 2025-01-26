@@ -5,7 +5,7 @@ This repository contains the source code for a **Job Listing Website** built usi
 
 ## Features
 
-- **User Authentication**
+- 
   - Secure Login and Registration pages.
   - Password encryption for secure access.
 
