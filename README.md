@@ -33,3 +33,8 @@ This repository contains the source code for a **Job Listing Website** built usi
 - **API Integration**: RESTful APIs for fetching job data
 - **State Management**: React Context
 
+## Screenshots
+![Home page](images/img1.png)
+![Add jobs page](images/img2.png)
+
+
