@@ -35,6 +35,6 @@ This repository contains the source code for a **Job Listing Website** built usi
 
 ## Screenshots
 ![Home page](_theme_files/images/img1.png)
-![Add jobs page](images/img2.png)
+![Add jobs page](_theme_files/images/img2.png)
 
 
