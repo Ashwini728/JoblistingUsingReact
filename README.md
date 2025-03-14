@@ -34,7 +34,7 @@ This repository contains the source code for a **Job Listing Website** built usi
 - **State Management**: React Context
 
 ## Screenshots
-![Home page](theme_files/images/img1.png)
+![Home page](_theme_files/images/img1.png)
 ![Add jobs page](images/img2.png)
 
 
